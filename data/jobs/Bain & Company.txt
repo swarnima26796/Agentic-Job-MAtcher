@@ -1,0 +1,53 @@
+Bain & Company
+Senior Associate, Viz CoE (GenAI FullStack)
+
+About the job
+ABOUT US: Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. Across 61 offices in 39 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition and redefine industries. Since our founding in 1973, we have measured our success by the success of our clients, and we proudly maintain the highest level of client advocacy in the industry.In 2004, the firm established its presence in the Indian market by opening the Bain Capability Center (BCC) in New Delhi. The BCC is now known as BCN (Bain Capability Network) with its nodes across various geographies. BCN plays a critical role in supporting Bain's case teams globally to help with analytics and research across all industries, for corporate cases, client development, private equity diligence or Bain intellectual property. The BCN comprises of Consulting Services, Knowledge Services and Shared Services. 
+WHO YOU’LL WORK WITH:  This role is based out of the Visualization Centre of Excellence (CoE) at the BCN. Visualization CoE works closely with global Bain case teams, Bain Partners and end-clients providing them data analytics and business intelligence support using advanced data analysis and visualization tools (e.g., SQL, Python, Azure, AWS, Tableau, PowerBI, Alteryx etc.). The CoE is a one-stop shop for all case requests related to converting data into insightful visualizations tools (e.g., survey analytics, leadership KPI dashboards, etc). The role will focus on development, maintenance and evolution of the state-of-the art application and AI tools development.WHAT YOU’LL DO:  
+Responsible for end-to-end handling of the entire process, i.e., requirement gathering, data cleaning, processing and automation
+Construct, test, install, and maintain software applications
+Build GenAI/ML end-to-end solutions using Python and modern LLM/GenAI frameworks by translating business objectives into clear technical requirements.
+Assist in building RAG-based applications by integrating LLMs with document retrieval tools to improve accuracy and grounding of AI responses. Help prepare and index datasets into vector stores (e.g., FAISS, Chroma) for use in RAG pipelines.
+Support development of agentic or task-oriented AI workflows, where LLMs interact with tools or APIs to automate routine tasks
+Design and implement prototypes and POCs to validate feasibility and demonstrate solution value.
+Assist in training, fine-tuning, and evaluating NLP/LLM models for tasks such as classification, summarization, retrieval, and conversational use cases.
+Research and experiment with innovative GenAI/LLM techniques to help solve real-world business problems.
+Evaluate potential technologies for adoption, including open-source frameworks, libraries, and tools
+Contribute to the planning for acceptance testing and implementation of new software, performing supporting activities to ensure that customers have the information and assistance they need for a successful implementation
+Develop secure and highly performant services and APIs
+Ensure that the system architecture is quality tested, scalable and maintainable
+Work with Bain team or end-clients as an expert on specific platform/tool/ in individual capacity or lead teams of analysts and associates to design and deliver impactful insights
+Solve complex back-end system and analysis issues, providing thought leadership and business judgment
+Prepare documentation for further reference 
+The working style of the team would be to support custom product development; hence the pipelines, systems and algorithm built should be scalable and automated
+Manage internal and external stakeholders, across instruments and workstreams to provide expertise in data management and tool expertise
+Work under the guidance of a Team Manager / Sr. Team Manager, playing a key role in driving the team’s overall answer and final materials, client communication, work planning, and team management
+May also take responsibility for assigning work streams to Analysts & Associates, monitor and balance workload; Provides tool based technical expertise to the junior team members when required
+May deploy solutions using CI/CD pipelines 
+Lead client/ case team calls and effectively communicate data, knowledge, insights and actionable next steps to the case team; relay implications to his/her own internal team
+May be involved in identifying team’s development needs and providing feedback in interactions via conducting performance discussions, writing reviews for appraisal etc.
+Assist on other team management activities (e.g. recruiting, training, etc.)
+ ABOUT YOU: 
+Candidate should be a Graduate/Post-Graduate from top-tier College with strong academic records and with 5-7 years of relevant work experience in full stack development
+Strong understanding of Generative AI concepts, including prompt engineering, fine-tuning, Model Context Protocol (MCP), embeddings, and vector databases 
+Hands-on project experience with Large Language Models (LLMs), Hugging Face, and Retrieval-Augmented Generation (RAG) frameworks 
+Strong understanding of full-stack architecture and design principles, with experience in back-end development and working knowledge of front-end integration
+Strong knowledge of RESTful APIs, GraphQL, and WebSockets for application integration
+Hands-on experience with back-end technologies and frameworks, including Python (Django, Flask, or FastAPI), for building scalable and maintainable services
+Proficiency with Python and Advanced SQL queries, Stored procedures, query performance tuning, index maintenance, etc
+Experience working with databases, including relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB), along with data modeling and query optimization
+Familiarity with development, DevOps, and deployment tools, including Git, Docker, CI/CD pipelines, and exposure to container orchestration tools like Kubernetes
+Intermediate to Advanced experience with cloud platforms such as AWS, Azure, or Google Cloud, including deploying and managing applications in cloud environments
+Strong understanding of the Software Development Life Cycle (SDLC), with hands-on experience working in Agile/Scrum environments
+Should be a motivated and collaborative team player, who is a role-model and at-cause individual within the team and office
+Must be willing to own and maintain high visibility and high impact product
+Excellent oral and written communication skills including the ability to communicate effectively with both technical and non-technical senior stakeholders
+Must have ability to generate and screen realistic answers based on sound reality checks and recommend actionable solutions
+Ability to prioritize projects, manage multiple competing priorities and drive projects to completion under tight deadlines
+
+
+Good to Have:
+Experience working with front-end technologies and frameworks such as React.js, Angular, or Vue.js, enabling effective collaboration with front-end teams and implementation of UI-driven features
+Knowledge of Environment creation and management
+Experience in managing productized solutions is a plus
+ WHAT MAKES US A GREAT PLACE TO WORK:We are proud to be consistently recognized as one of the world's best places to work, a champion of diversity and a model of social responsibility. We are currently ranked the #1 consulting firm on Glassdoor’s Best Places to Work list, and we have maintained a spot in the top four on Glassdoor's list for the last 12 years. We believe that diversity, inclusion and collaboration is key to building extraordinary teams. We hire people with exceptional talents, abilities and potential, then create an environment where you can become the best version of yourself and thrive both professionally and personally. We are publicly recognized by external parties such as Fortune, Vault, Mogul, Working Mother, Glassdoor and the Human Rights Campaign for being a great place to work for diversity and inclusion, women, LGBTQ and parents.
