@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-09-14T07:27:32.048244",
+  "changes": [
+    {
+      "target": "skills",
+      "recommendation": "Include 'API development' if applicable.",
+      "evidence": "Background in Python and Azure could imply exposure to API-related tasks.",
+      "decision": "rejected"
+    },
+    {
+      "target": "skills",
+      "recommendation": "Mention 'Stakeholder Management' more prominently to strengthen the match with team and stakeholder responsibilities.",
+      "evidence": "Experience in stakeholder engagement in project delivery.",
+      "decision": "approved"
+    }
+  ]
+}

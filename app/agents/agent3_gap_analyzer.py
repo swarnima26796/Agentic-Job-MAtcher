@@ -129,8 +129,7 @@ Return ONLY valid JSON.
         response = response.replace("```", "")
         response = response.strip()
 
-    print("\n===== GAP ANALYSIS RESPONSE =====")
-    print(response)
+ 
     data = json.loads(response)
 
     return GapAnalysis.model_validate(data)
